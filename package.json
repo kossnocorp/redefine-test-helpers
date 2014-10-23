@@ -1,0 +1,13 @@
+{
+  "name": "redefine-test-helpers",
+  "version": "0.1.0",
+  "description": "TODO",
+  "main": "redefine_test_helpers.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kossnocorp/redefine-test-helpers"
+  },
+  "author": "Sasha Koss <kossnocorp@gmail.com>",
+  "license": "MIT"
+}
+
